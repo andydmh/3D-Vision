@@ -1,4 +1,4 @@
-## Author: Andy Daniel Martinez <andy@andy-p7-1520t>
+## Author: Andy Daniel Martinez
 ## Created: 2017-09-27
 
 function conicIntersection()
